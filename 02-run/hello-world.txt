@@ -1,0 +1,3 @@
+/* package: 02-run, ver: 1.0.0 */
+
+Hello world!

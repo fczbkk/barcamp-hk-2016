@@ -1,0 +1,10 @@
+{
+  "name": "02-run",
+  "version": "1.0.0",
+  "scripts": {
+    "hello-world": "node ./hello-world.js",
+    "generate-hello-world": "node ./generate-hello-world.js",
+    "add-banner": "node ./add-banner.js",
+    "build": "npm run generate-hello-world && npm run add-banner"
+  }
+}
